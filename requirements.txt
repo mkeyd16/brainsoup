@@ -1,0 +1,6 @@
+flask
+gunicorn
+torch
+safetensors
+numpy
+requests
